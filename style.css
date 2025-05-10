@@ -1,0 +1,22 @@
+mywebsite/
+├── mywebsite/
+│   ├── init.py
+│   ├── settings.py
+│   ├── urls.py
+│   ├── wsgi.py
+├── main/
+│   ├── templates/
+│   │   └── main/
+│   │       ├── base.html
+│   │       ├── home.html
+│   │       ├── about.html
+│   │       ├── contact.html
+│   │       └── services.html
+│   ├── views.py
+│   ├── urls.py
+│   ├── init.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── tests.py
+├── manage.py
